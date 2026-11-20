@@ -1,0 +1,8 @@
+{
+	"name": "Cron Schedule",
+	"author": "spl0k (but actually Claude)",
+	"description": "Schedules each feed's refresh with a cron expression (e.g. 0 7 * * 1-5), from the FreshRSS interface.",
+	"version": "0.1.0",
+	"entrypoint": "CronSchedule",
+	"type": "user"
+}
